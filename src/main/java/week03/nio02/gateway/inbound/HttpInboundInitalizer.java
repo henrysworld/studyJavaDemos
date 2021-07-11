@@ -1,4 +1,4 @@
-package week02.nio02.gateway.inbound;
+package week03.nio02.gateway.inbound;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

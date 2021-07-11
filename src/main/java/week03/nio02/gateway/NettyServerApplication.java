@@ -1,6 +1,6 @@
-package week02.nio02.gateway;
+package week03.nio02.gateway;
 
-import week02.nio02.gateway.inbound.HttpInboundServer;
+import week03.nio02.gateway.inbound.HttpInboundServer;
 
 import java.util.Arrays;
 

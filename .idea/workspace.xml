@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
@@ -138,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625999961553</updated>
-      <workItem from="1625999964398" duration="9479000" />
+      <workItem from="1625999964398" duration="10121000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package week02.nio02.gateway.outbound.httpclient4;
+package week03.nio02.gateway.outbound.httpclient4;
 
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFutureListener;
@@ -15,15 +15,14 @@ import org.apache.http.impl.nio.client.HttpAsyncClients;
 import org.apache.http.impl.nio.reactor.IOReactorConfig;
 import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
-import week02.nio02.gateway.filter.HeaderHttpResponseFilter;
-import week02.nio02.gateway.filter.HttpRequestFilter;
-import week02.nio02.gateway.filter.HttpResponseFilter;
-import week02.nio02.gateway.router.HttpEndpointRouter;
-import week02.nio02.gateway.router.RandomHttpEndpointRouter;
+import week03.nio02.gateway.filter.HeaderHttpResponseFilter;
+import week03.nio02.gateway.filter.HttpRequestFilter;
+import week03.nio02.gateway.filter.HttpResponseFilter;
+import week03.nio02.gateway.router.HttpEndpointRouter;
+import week03.nio02.gateway.router.RandomHttpEndpointRouter;
 
 import java.io.IOException;
 import java.util.List;
-import java.util.Random;
 import java.util.concurrent.*;
 import java.util.stream.Collectors;
 
