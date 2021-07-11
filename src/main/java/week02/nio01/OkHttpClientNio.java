@@ -12,8 +12,10 @@ public class OkHttpClientNio {
     private static OkHttpClient client = new OkHttpClient();
     public static void main(String[] args) throws IOException {
 
+        for (int i = 0; i < 100000; i++){
+            getBody1(client, "http://localhost:8888");
+        }
 
-        getBody1(client, "http://localhost:8808");
         client = null;
     }
 

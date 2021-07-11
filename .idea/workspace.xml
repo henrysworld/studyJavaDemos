@@ -5,66 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/NettyServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/filter/HeaderHttpRequestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/filter/HeaderHttpResponseFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/filter/HttpRequestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/filter/HttpResponseFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/inbound/HttpInboundHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/inbound/HttpInboundInitalizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/inbound/HttpInboundServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/outbound/httpclient4/NamedThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/router/HttpEndpointRouter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week02/nio02/gateway/router/RandomHttpEndpointRouter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/NettyServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HeaderHttpRequestFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HeaderHttpResponseFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HttpRequestFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HttpResponseFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundInitalizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/NamedThreadFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/router/HttpEndpointRouter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/router/RandomHttpEndpointRouter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_51_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_45_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/HttpServer03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week01/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week01/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week01/HelloByteCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week01/HelloByteCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week01/HelloClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week01/HelloClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week01/XlassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week01/XlassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/GCLogAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/GCLogAnalysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/HttpServer03.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/OkHttpClientNio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/OkHttpClientNio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/netty/HttpHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/netty/HttpHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/netty/HttpInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/netty/HttpInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/netty/NettyHttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/netty/NettyHttpServer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -178,10 +123,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.OkHttpClientNio" />
-        <item itemvalue="Application.NettyHttpServer" />
-        <item itemvalue="Application.NettyServerApplication" />
         <item itemvalue="Application.HttpServer03" />
         <item itemvalue="Application.HttpServer02" />
+        <item itemvalue="Application.NettyServerApplication" />
+        <item itemvalue="Application.NettyHttpServer" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625999961553</updated>
-      <workItem from="1625999964398" duration="7151000" />
+      <workItem from="1625999964398" duration="9479000" />
     </task>
     <servers />
   </component>
