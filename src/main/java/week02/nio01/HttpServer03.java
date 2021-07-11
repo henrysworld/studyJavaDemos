@@ -12,7 +12,7 @@ public class HttpServer03 {
     public static void main(String[] args){
         ExecutorService executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors() * 4);
         try {
-            ServerSocket serverSocket = new ServerSocket(8803);
+            ServerSocket serverSocket = new ServerSocket(8801);
             while (true){
                 Socket socket = serverSocket.accept();
                 executorService.execute(() -> service(socket));
@@ -27,7 +27,7 @@ public class HttpServer03 {
             PrintWriter printWriter = new PrintWriter(socket.getOutputStream(), true);
             printWriter.println("HTTP/1.1 200 Ok");
             printWriter.println("Content-Type:text/html;charset=utf-8");
-            String body = "hello socket nio01";
+            String body = "hello socket nio01111111";
             printWriter.println("Content-Length:" + body.getBytes().length);
             printWriter.println();
             printWriter.write(body);
