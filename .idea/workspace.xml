@@ -5,16 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0301/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0301/Runner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0301/Runner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0301/RunnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/atomic/AtomicCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/atomic/AtomicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/atomic/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/atomic/LongDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/atomic/SyncCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/LockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/LockSupportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ObjectCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ReentrantReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ReentrantReadWriteLockDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/TestFair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/lock/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/ExecutorServiceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/NewCachedThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/NewFixedThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/NewScheduledThreadExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/conc0302/threadpool/NewSingleThreadExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/homework/Func1Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/homework/Func2Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/homework/HomeWork03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week04/homework/第四周脑图作业.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week02/nio01/OkHttpClientNio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio01/OkHttpClientNio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week02/nio01/OkHttpClientNio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/NettyServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HeaderHttpRequestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HeaderHttpResponseFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HttpRequestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/filter/HttpResponseFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundInitalizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/inbound/HttpInboundServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/outbound/httpclient4/NamedThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/router/HttpEndpointRouter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week02/nio02/gateway/router/RandomHttpEndpointRouter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,20 +87,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/week04/homework" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39812645" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.OkHttpClientNio">
-    <configuration name="HttpServer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.nio01.HttpServer02" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\44216\Desktop\student\Java\studyJavaDemos\src\main\java\week04\homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AtomicMain">
+    <configuration name="AtomicMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week04.conc0302.atomic.AtomicMain" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.nio01.*" />
+          <option name="PATTERN" value="week04.conc0302.atomic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpServer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.nio01.HttpServer03" />
+    <configuration name="LockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week04.conc0302.lock.LockMain" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.nio01.*" />
+          <option name="PATTERN" value="week04.conc0302.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NettyHttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.nio01.netty.NettyHttpServer" />
+    <configuration name="LockSupportDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week04.conc0302.lock.LockSupportDemo" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.nio01.netty.*" />
+          <option name="PATTERN" value="week04.conc0302.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NettyServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.nio02.gateway.NettyServerApplication" />
+    <configuration name="LongDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week04.conc0302.atomic.LongDemo" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.nio02.gateway.*" />
+          <option name="PATTERN" value="week04.conc0302.atomic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OkHttpClientNio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.nio01.OkHttpClientNio" />
+    <configuration name="TestFair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week04.conc0302.lock.TestFair" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.nio01.*" />
+          <option name="PATTERN" value="week04.conc0302.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,24 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OkHttpClientNio" />
-        <item itemvalue="Application.HttpServer03" />
-        <item itemvalue="Application.HttpServer02" />
-        <item itemvalue="Application.NettyServerApplication" />
-        <item itemvalue="Application.NettyHttpServer" />
+        <item itemvalue="Application.AtomicMain" />
+        <item itemvalue="Application.LongDemo" />
+        <item itemvalue="Application.TestFair" />
+        <item itemvalue="Application.LockSupportDemo" />
+        <item itemvalue="Application.LockMain" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +197,9 @@
       <option name="presentableId" value="Default" />
       <updated>1625999961553</updated>
       <workItem from="1625999964398" duration="10121000" />
+      <workItem from="1626190199973" duration="2441000" />
+      <workItem from="1626273758214" duration="6308000" />
+      <workItem from="1626360314382" duration="3365000" />
     </task>
     <servers />
   </component>
@@ -163,6 +223,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/week02/nio02/gateway/outbound/httpclient4/HttpOutboundHandler.java</url>
           <line>81</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/LockMain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count3.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count3.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/Count3.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week04/conc0302/lock/LockMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
