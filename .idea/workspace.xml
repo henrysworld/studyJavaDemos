@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="" />
+    <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/aop/ISchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Aop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Aop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Klass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/SpringDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/HikariApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/HikariRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/MyHikariConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/jdbc/MysqlJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/hlass/BeanLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/resources/BeanConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/resources/hikari.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +35,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -50,26 +74,13 @@
       <recent name="C:\Users\44216\Desktop\student\Java\studyJavaDemos\src\main\java\week04\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AtomicMain">
+  <component name="RunManager" selected="Application.SpringDemo01">
     <configuration name="AtomicMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week04.conc0302.atomic.AtomicMain" />
       <module name="studyJavaDemos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week04.conc0302.atomic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week04.conc0302.lock.LockMain" />
-      <module name="studyJavaDemos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week04.conc0302.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.spring02.SpringDemo01" />
+      <module name="studyJavaDemos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week05.spring02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week04.conc0302.lock.TestFair" />
       <module name="studyJavaDemos" />
@@ -116,13 +140,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringDemo01" />
         <item itemvalue="Application.AtomicMain" />
         <item itemvalue="Application.LongDemo" />
         <item itemvalue="Application.TestFair" />
         <item itemvalue="Application.LockSupportDemo" />
-        <item itemvalue="Application.LockMain" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +175,8 @@
       <workItem from="1626190199973" duration="2441000" />
       <workItem from="1626273758214" duration="6308000" />
       <workItem from="1626360314382" duration="3789000" />
+      <workItem from="1627055161847" duration="1238000" />
+      <workItem from="1627140774525" duration="11972000" />
     </task>
     <servers />
   </component>
