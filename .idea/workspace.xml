@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/aop/ISchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Aop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Aop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/Klass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/spring02/SpringDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/HikariApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/HikariRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/MyHikariConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/hikari/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/database/jdbc/MysqlJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/java/com/henry/homework/hlass/BeanLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/resources/BeanConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/src/main/resources/hikari.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week06/HomeWork.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,15 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,6 +157,7 @@
       <workItem from="1626360314382" duration="3789000" />
       <workItem from="1627055161847" duration="1238000" />
       <workItem from="1627140774525" duration="11972000" />
+      <workItem from="1627713049119" duration="2904000" />
     </task>
     <servers />
   </component>
