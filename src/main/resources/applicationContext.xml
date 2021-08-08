@@ -10,19 +10,19 @@
                          http://www.springframework.org/schema/aop
                          https://www.springframework.org/schema/aop/spring-aop.xsd">
     <bean id="student123"
-          class="week05.spring01.Student">
+          class="week0501.spring01.Student">
         <property name="id" value="123"/>
         <property name="name" value="CH123"/>
 
     </bean>
 
     <bean id="student100"
-          class="week05.spring01.Student">
+          class="week0501.spring01.Student">
         <property name="id" value="100"/>
         <property name="name" value="CH100"/>
     </bean>
 
-    <bean id="class1" class="week05.spring02.Klass">
+    <bean id="class1" class="week0501.spring02.Klass">
         <property name="students">
             <list>
                 <ref bean="student100"/>
@@ -31,14 +31,14 @@
         </property>
     </bean>
 
-    <context:component-scan base-package="week05.spring02"/>
-    <bean id="aop1" class="week05.spring02.Aop1"/>
-    <bean id="aop2" class="week05.spring02.Aop2"/>
+    <context:component-scan base-package="week0501.spring02"/>
+    <bean id="aop1" class="week0501.spring02.Aop1"/>
+    <bean id="aop2" class="week0501.spring02.Aop2"/>
 
     <aop:aspectj-autoproxy/>
 
     <aop:config>
-        <aop:pointcut id="p1" expression="execution(* week05.aop.*.*(..))"/> <!--切点-->
+        <aop:pointcut id="p1" expression="execution(* week0501.aop.*.*(..))"/> <!--切点-->
         <aop:aspect ref="aop1"><!--切面-->
             <aop:around method="around" pointcut-ref="p1"/>
             <aop:before method="startTransaction" pointcut-ref="p1"/>
@@ -46,5 +46,5 @@
         </aop:aspect>
     </aop:config>
 
-    <bean id="school" class="week05.spring02.School"></bean>
+    <bean id="school" class="week0501.spring02.School"></bean>
 </beans>
