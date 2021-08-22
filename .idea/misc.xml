@@ -5,6 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/week05/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-client/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-server/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week09/pom.xml" />
       </list>
     </option>
   </component>
