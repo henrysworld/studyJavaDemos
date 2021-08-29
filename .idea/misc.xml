@@ -10,7 +10,13 @@
         <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-client/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-server/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/week09/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="11" project-jdk-type="JavaSDK">

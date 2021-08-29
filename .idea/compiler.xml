@@ -12,12 +12,16 @@
         <module name="rpcfx-core" />
         <module name="rpcfx-demo-client" />
         <module name="rpcfx-demo-api" />
-        <module name="studyJavaDemos" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo-rpcfx" target="11" />
       <module name="homework" target="11" />
+      <module name="Java-Rpc-Demo" target="11" />
+      <module name="rpc-api" target="11" />
+      <module name="rpc-client" target="11" />
+      <module name="rpc-core" target="11" />
+      <module name="rpc-server" target="11" />
       <module name="rpcfx-core" target="11" />
       <module name="rpcfx-demo-api" target="11" />
       <module name="rpcfx-demo-client" target="11" />
@@ -27,6 +31,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Java-Rpc-Demo" options="-parameters" />
       <module name="homework" options="-parameters" />
       <module name="rpcfx-core" options="-parameters" />
       <module name="rpcfx-demo-api" options="-parameters" />

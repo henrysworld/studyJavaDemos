@@ -5,37 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/demo-rpcfx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/api/RpcRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/api/RpcResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/client/RpcClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/client/RpcClientSyncHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/client/RpcNettyClientSync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/common/RpcDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/common/RpcEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/common/RpcProtocol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/server/RpcNettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/netty/server/RpcServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcByteBuddy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcClientCglib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcClientJdk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/src/main/java/com/ch/rpcfxcore/proxy/RpcProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/src/main/java/com/ch/rpcfxdemoapi/model/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/src/main/java/com/ch/rpcfxdemoapi/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/src/main/java/com/ch/rpcfxdemoapi/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/src/main/java/com/ch/rpcfxdemoapi/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/src/main/java/com/ch/rpcfxdemoapi/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-server/src/main/java/com/ch/rpcfxdemoserver/config/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-server/src/main/java/com/ch/rpcfxdemoserver/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-server/src/main/java/com/ch/rpcfxdemoserver/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week09/rpcfx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/src/main/java/com/rpc/demo/model/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/src/main/java/com/rpc/demo/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/src/main/java/com/rpc/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/src/main/java/com/rpc/demo/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/src/main/java/com/rpc/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-client/src/main/java/com/rpc/client/demo/ClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/annotation/ProviderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/api/ProviderInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/api/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/api/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/balance/LoadBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/balance/loadbalance/AbstractLoadBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/balance/loadbalance/ConsistentHashBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/balance/loadbalance/ConsistentHashSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/balance/loadbalance/WeightBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/discovery/DiscoveryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/discovery/DiscoveryServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/discovery/ZookeeperClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/filter/client/FilterLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/filter/client/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/filter/client/RpcFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/filter/client/TagFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/filter/server/BackListFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/client/RpcClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/client/RpcClientSyncHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/client/RpcNettyClientSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/common/RpcDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/common/RpcEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/common/RpcProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/server/BackListFilterHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/server/RpcNettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/netty/server/RpcServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/proxy/ProviderServiceManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/proxy/RpcClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/proxy/RpcClientCglib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/proxy/RpcClientJdk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/src/main/java/com/rpc/core/demo/proxy/RpcInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/ServerApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl/UserServiceV2Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl2/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl2/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/src/main/java/com/rpc/server/demo/service/impl2/UserServiceV2Impl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyJavaDemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJavaDemos.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +103,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA-000/homework/rpc/rpc-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -159,13 +184,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -234,6 +261,11 @@
       <workItem from="1628391591580" duration="760000" />
       <workItem from="1629559354786" duration="6410000" />
       <workItem from="1629614186213" duration="8497000" />
+      <workItem from="1630201176311" duration="737000" />
+      <workItem from="1630201989379" duration="182000" />
+      <workItem from="1630202550150" duration="87000" />
+      <workItem from="1630203845241" duration="320000" />
+      <workItem from="1630209039300" duration="1892000" />
     </task>
     <servers />
   </component>
