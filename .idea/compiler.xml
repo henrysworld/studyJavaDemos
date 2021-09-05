@@ -10,8 +10,12 @@
         <module name="rpcfx-demo-server" />
         <module name="homework" />
         <module name="rpcfx-core" />
+        <module name="rpc-client" />
+        <module name="rpc-server" />
         <module name="rpcfx-demo-client" />
         <module name="rpcfx-demo-api" />
+        <module name="rpc-api" />
+        <module name="rpc-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,8 +24,8 @@
       <module name="Java-Rpc-Demo" target="11" />
       <module name="rpc-api" target="11" />
       <module name="rpc-client" target="11" />
-      <module name="rpc-core" target="11" />
-      <module name="rpc-server" target="11" />
+      <module name="rpc-core" target="8" />
+      <module name="rpc-server" target="8" />
       <module name="rpcfx-core" target="11" />
       <module name="rpcfx-demo-api" target="11" />
       <module name="rpcfx-demo-client" target="11" />

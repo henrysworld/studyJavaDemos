@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/main/java/week09/demo-rpcfx.iml" filepath="$PROJECT_DIR$/src/main/java/week09/demo-rpcfx.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/java/week05/homework.iml" filepath="$PROJECT_DIR$/src/main/java/week05/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/rpc-api.iml" filepath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/rpc-core.iml" filepath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/rpc-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/java/week09/rpcfx-core/rpcfx-core.iml" filepath="$PROJECT_DIR$/src/main/java/week09/rpcfx-core/rpcfx-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/rpcfx-demo-api.iml" filepath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-api/rpcfx-demo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-client/rpcfx-demo-client.iml" filepath="$PROJECT_DIR$/src/main/java/week09/rpcfx-demo-client/rpcfx-demo-client.iml" />
