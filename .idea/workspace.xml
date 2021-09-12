@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-api/rpc-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-client/rpc-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-core/rpc-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10/Java-Rpc-Demo/rpc-server/rpc-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11/redis-lock/src/main/java/com/ch/redislock/RedisLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11/redis-pubsub/src/main/java/com/ch/redispubsub/PublishOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11/redis-pubsub/src/main/java/com/ch/redispubsub/SubscribeOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week12/redis主从.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week12/sentinel.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA-000/homework/redis/redis-lock" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA-000/homework/mq/jms-activemp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -138,13 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,7 +213,8 @@
       <workItem from="1630202550150" duration="87000" />
       <workItem from="1630203845241" duration="320000" />
       <workItem from="1630209039300" duration="2558000" />
-      <workItem from="1630813808635" duration="1964000" />
+      <workItem from="1630813808635" duration="2016000" />
+      <workItem from="1631443592955" duration="517000" />
     </task>
     <servers />
   </component>
