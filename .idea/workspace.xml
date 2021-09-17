@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3922086e-66c6-4a92-a69a-2181cc658d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12/redis主从.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12/sentinel.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week13/kafka-hw/src/main/java/com/ch/kafkahw/KafkaUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RpcfxCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="rpcfx-core" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ch.rpcfxcore.RpcfxCoreApplication" />
@@ -215,6 +201,8 @@
       <workItem from="1630209039300" duration="2558000" />
       <workItem from="1630813808635" duration="2016000" />
       <workItem from="1631443592955" duration="517000" />
+      <workItem from="1631892278895" duration="465000" />
+      <workItem from="1631893782918" duration="606000" />
     </task>
     <servers />
   </component>
